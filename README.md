@@ -7,9 +7,11 @@ Creating a DockerHelper module with PowerShell cmdlets to interact with Docker o
 
 **Requirements**
 
--Powershell Version 7.4.6
--Ubuntu VM
--Docker 
+1.Powershell Version 7.4.6
+
+2.Ubuntu VM
+
+3.Docker 
 
 
 **Cmdlets**
